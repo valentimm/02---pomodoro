@@ -1,3 +1,4 @@
+import React from 'react'
 import { HeaderContainer } from './styles'
 import { Timer, Scroll } from 'phosphor-react'
 import logo from '../../assets/logo.svg'
